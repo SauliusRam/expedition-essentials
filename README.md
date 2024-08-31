@@ -6,7 +6,7 @@
   This Minecraft datapack designed to enhance players' **exploration and survival experiences** by allowing them to **create, manage, and deploy customizable camps!** Whether traveling through the world or settling in new areas, players can use this datapack to set up temporary or permanent camps that cater to their needs.
   
 **Multiplayer compatible!**
-## **Using this datapack you can:**
+## **Using this datapack you can**
 **Create** 11x10x11 your **own camps** or **use beautiful presets**!
 
 **Pack your camp** (mobile base) and **unpack your camp** wherever you go!
@@ -42,6 +42,11 @@ It is recommended to unpack camp **on flat surafaces**!
 ### Using presets
 
 Place **required materials** in the dropper (while it is placed in the middle of the camp), **stand back and watch the preset being built!**
+
+## Important notes
+
+If you add this datapack **after the world is created** run command /reload for the **datapack work correctly!**
+
 ## Limitations:
 
 However cool this datapack is, it has its drawbacks:
