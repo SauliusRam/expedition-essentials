@@ -45,7 +45,7 @@ Place **required materials** in the dropper (while it is placed in the middle of
 
 ## Important notes
 
-If you add this datapack **after the world is created** run command /reload for the **datapack work correctly!**
+If you add this datapack **after the world is created** run command /reload for the **datapack to work correctly!**
 
 ## Limitations:
 
