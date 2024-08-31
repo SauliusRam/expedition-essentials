@@ -20,8 +20,6 @@ Craft a camping manual book:
 
 ![Camping manual](https://cdn.modrinth.com/data/cached_images/0e5302dd3b5e3390748d391d17663f61440bb241.png)
 
-## How to pack and unpack camps
-### **Creating a camp** 
 Stand wherever you want and **read the cmaping manual book**.
 
 Where you stand will be **the middle of the camp**.
@@ -29,6 +27,7 @@ A dropper is placed in the middle of the camp aswell. While **dropper is placed 
 
 If you breake it and want to place it again just **hold the dropper in your main hand** and particles will **indicate the middle of the camp**.
 
+## How to pack and unpack camps
 
 ### Packing camp
 **Read the book again** and camp will pack in **10 seconds**.
