@@ -3,7 +3,7 @@
 # **Hello adventurer!**
   Are you looking for the **best adventure of your life?** Look no further! With this datapack **you will fulfill your adventure needs at its fullest!**
   
-  This Minecraft datapack designed to enhance players' **exploration and survival experiences** by allowing them to **create, manage, and deploy customizable camps!** Whether traveling through the world or settling in new areas, players can use this datapack to set up temporary or permanent camps that cater to their needs.
+This Minecraft datapack is designed to enhance players' **exploration and survival experiences** by allowing them to **create, manage, and deploy customizable camps!** Whether traveling through the world or settling in new areas, players can use this datapack to set up temporary or permanent camps that cater to their needs.
   
 **Multiplayer compatible!**
 ## **Using this datapack you can**
@@ -35,17 +35,27 @@ If you breake it and want to place it again just **hold the dropper in your main
 
 ### Unpacking camp
 
-Stand wherever you want and **read the camping manual book** angain. Wherver you stand will be **the middle of the camp**. **Stand back and watch you camp set up!**
-
-It is recommended to unpack camp **on flat surafaces**!
+Stand wherever you want and **read the camping manual book** angain. Wherever you stand will be **the middle of the camp**. **Stand back and watch you camp set up!**
 
 ### Using presets
 
 Place **required materials** in the dropper (while it is placed in the middle of the camp), **stand back and watch the preset being built!**
 
+## Respawn
+
+When a player **creates or unpacks a camp** the player sets respawn point where the camp is created or unpacked for **himself and all the players around** that are within **10 blocks radius**!
+
+Basically the player and his camp buddies respawn at the location where the last time **camp is unpacked or created!**
+
 ## Important notes
 
 If you add this datapack **after the world is created** run command /reload for the **datapack to work correctly!**
+
+Its recommended to create and unpack camps on **flat and open areas!**
+
+## Issues
+
+Please report all bugs, issues and write suggestions on github, it helps a lot!
 
 ## Limitations:
 
