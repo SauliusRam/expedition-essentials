@@ -55,7 +55,12 @@ Its recommended to create and unpack camps on **flat and open areas!**
 
 ## Issues
 
-Please report all bugs, issues and write suggestions on github, it helps a lot!
+**Please report all bugs and issues** github, it helps a lot!
+**Discussions is now open on github aswell!** Share you ideas, creations and suggestions!
+
+## Future plans
+
+My next big goal is to make **customisable camp size** in settings or via upgrades. I'll open a pool on the github!
 
 ## Limitations:
 
