@@ -5,7 +5,7 @@
   
 This Minecraft mod is designed to enhance players' **exploration and survival experiences** by allowing them to **create, manage, and deploy customizable camps!** Whether traveling through the world or settling in new areas, players can use this mod to set up temporary or permanent camps that cater to their needs.
   
-**Multiplayer compatible!**
+### **Multiplayer compatible!**
 ## **Using this mod you can**
 **Create** 11x10x11 your **own camps** or **use beautiful presets**!
 
