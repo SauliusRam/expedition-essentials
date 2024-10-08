@@ -1,6 +1,6 @@
 ![logo](https://cdn.modrinth.com/data/cached_images/ae157ca2575447ae8d6051fa07513e33377ff38d.png)
 
-# **Hello adventurer!**
+# **Hello Adventurer!**
   Are you looking for the **best adventure of your life?** Look no further! With this mod **you will fulfill your adventure needs at its fullest!**
   
 This Minecraft mod is designed to enhance players' **exploration and survival experiences** by allowing them to **create, manage, and deploy customizable camps!** Whether traveling through the world or settling in new areas, players can use this mod to set up temporary or permanent camps that cater to their needs.
@@ -20,6 +20,8 @@ Crafting a camping crate:
 
 ![Caping crate](https://cdn.modrinth.com/data/cached_images/d1b87623d87d170959d069c6bc76b13653d0e786.png)
 
+**Note:** any type of planks can be used!
+
 Place camping crate wherever you want and **shift right-click on the block**.
 
 Where you stand will be **the middle of the camp**.
@@ -30,12 +32,12 @@ If you breake the dropper and want to place it again just **hold the dropper in 
 ## How to pack and unpack camps
 
 ### Packing camp
-Place the camping crate block again and shift right-click on the block - camp will pack in **10 seconds**.
+Place the camping crate block and shift right-click on the block - camp will pack in **10 seconds**.
 
 
 ### Unpacking camp
 
-Place camping crate wherever you want and **shift right-click on the block**. Wherever you stand will be **the middle of the camp**. **Stand back and watch you camp set up!**
+Place camping crate wherever you want and **shift right-click on the block**. Wherever you stand will be **the middle of the camp**. **Stand back and watch your camp set up!**
 
 ### Using presets
 
